@@ -34,11 +34,8 @@ program.
 <img src="https://github.com/JoDeMiro/DeepLearningIntroduction/blob/main/Demo.gif?raw=true" width="683" height="558"></img>
 -->
 
-<img src="https://github.com/JoDeMiro/DeepLearningIntroduction/blob/main/animation_online_vs_batch_learning_demo.gif?raw=true"></img>
 
-1
-<img src="https://github.com/JoDeMiro/DeepLearningIntroduction/Intro/blob/main/animation_online_vs_batch_learning_demo.gif?raw=true"></img>
-
-2
 <img src="https://github.com/JoDeMiro/DeepLearningIntroduction/blob/main/Intro/animation_online_vs_batch_learning_demo.gif?raw=true"></img>
+
+<img src="https://github.com/JoDeMiro/DeepLearningIntroduction/blob/main/Intro/animation_online_vs_batch_learning_demo2.gif?raw=true"></img>
 
