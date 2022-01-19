@@ -2,8 +2,9 @@ Mély gépi tanulási módszerek
 
 Dr. Kertész Gábor, egyetemi adjunktus, Mély gépi tanulási módszerek tantágyához
 
-A tantárgy tartalma:
-A tantárgy célja: Az elmúlt 10 évben a mesterséges intelligencia tudományterülete ismét aktív
+A tantárgy célja:
+
+Az elmúlt 10 évben a mesterséges intelligencia tudományterülete ismét aktív
 kutatási területté vált a mély neurális hálózatok és az úgynevezett "mély gépi tanulás", deep
 learning megjelenésével. A deep learning alkalmazása a gépi látás területén korábban
 elérhetetlennek tűnő eredményeket produkált, majd ezt követően az elmúlt években mély
@@ -11,6 +12,13 @@ tanuláson alapuló megoldások jelentek meg gyakorlatilag az összes tudományt
 keretein belül a hallgatók a mély tanulás alapkoncepciójának megismerését követően
 különböző gépi látás és természetes szöveges feldolgozás területén elérhető technikákkal,
 alkalmazásokkal ismerkednek meg, a gyakorlatban is.
+
+
+A tantárgy tartalma:
+
+A mély gépi tanulás alapjai. Matematikai alapok, optimalizáció. Túlillesztés, regularizációs
+módszerek. Tanulás képi információk alapján, konvolúciós neurális hálózatok. Idősoros adatok
+feldolgozása, rekurrens neurális hálózatok. Természetes szövegnyelvi feldolgozás.
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoDeMiro/DeepLearningIntroduction/blob/master)
