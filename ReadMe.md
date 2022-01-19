@@ -39,3 +39,5 @@ program.
 
 <img src="https://github.com/JoDeMiro/DeepLearningIntroduction/blob/main/Intro/animation_online_vs_batch_learning_demo_2.gif?raw=true"></img>
 
+<img src="https://github.com/JoDeMiro/DeepLearningIntroduction/blob/main/Intro/animation_online_vs_batch_learning_demo_3.gif?raw=true"></img>
+
